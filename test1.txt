@@ -1,19 +1,15 @@
-                    Introduction of myself
-     
-      hello!😊 my name is Dolan Majhi from Bakkhali, but currently live in
-      kolkata,patuli.I belobg to a meddle class family.We are 4 at our home
-      including me,My parents and my little sister.
+  Git:
+  Git is a distributed version control system
+  for tracking changes in source code during
+  software development. It is designed for 
+  coordinating work among programmers, but it
+  can be used to track changes in any set of files.
+  Its goals include speed, data integrity, and 
+  support for distributed, non-linear workflows. 
 
-       I completed my 10th from NDSS in 2020 with 79.5% and I also passed 12th from NUHS in 2022 with 92%.
-      Presently,I am pursuing BCA from <b>DAITM</b> in MAKAUT. I am a fresher
-      and have no proffetional experience in any Industry.But I have done some
-      project with HTML and CSS.
-      
-       Coming to my Strengths,I am an honest and and
-      helpfull-mindset person. and quick learner. My goal is to gain knowledge
-      about industry work in reputed compaany like yours.
-      
-       This is all about me.
-      Thank You !
-    
- 
+GitHub:
+GitHub is a web-based Git repository hosting service,
+which offers all of the distributed revision control
+and source code management (SCM) functionality of Git
+as well as adding its own features. 
+
