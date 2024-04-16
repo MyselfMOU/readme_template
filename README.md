@@ -73,3 +73,4 @@ console.log("Dolan Majhi");
 | Sumana Roy    | 12  |
 | Mihi Banerjee | 33  |
 | nidhi Das     | 44  |
+| Bristi        | 19  |
