@@ -1,3 +1,19 @@
+# Introduction of myself
+
+      ```
+      hello!😊 my name is Dolan Majhi from Bakkhali, but currently live in
+      kolkata,patuli.I belobg to a meddle class family.We are 4 at our home
+      including me,My parents and my little sister. I completed my 10th from
+      NDSS in 2020 with 79.5% and I also passed 12th from NUHS in 2022 with 92%.
+      Presently,I am pursuing BCA from  DAITM in MAKAUT. I am a fresher
+      and have no proffetional experience in any Industry.But I have done some
+      project with HTML and CSS. Coming to my Strengths,I am an honest and and
+      helpfull-mindset person. and quick learner. My goal is to gain knowledge
+      about industry work in reputed compaany like yours.
+      This is all about me.
+      Thank You !
+      ```
+
 # Markdown
 
 <!-- ## hello -->
